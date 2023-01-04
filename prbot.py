@@ -10,7 +10,7 @@ import random
 from datetime import datetime
 from urllib import request
 prefix = "."
-TOKEN = "MTA1OTMzODI1NDQwMDM1NjQ1Mg.G3oo9I.SlDO8tFOlC2ZQtgODLP0kZ6WjhSB50LkolAFtc" 
+TOKEN = "Token Bot Shoma" 
 intents = discord.Intents.default()
 intents.members = True
 client = commands.Bot(command_prefix=prefix, intents = intents)
